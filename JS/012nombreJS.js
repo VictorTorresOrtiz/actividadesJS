@@ -1,10 +1,10 @@
 "use strict";
 
-let jsName = "ECMAScript";
-let readName = prompt('¿Cuál es el nombre "oficial" de JavaScript?');
+let nombre = "ECMAScript";
+let leerNombre = prompt('¿Cuál es el nombre de JavaScript?');
 
-if (jsName == readName) {
-    alert("¡Correcto!"); //Si es igual es correcto
+if (jsName == leerNombre) {
+    alert("has acertado"); //Si es igual es correcto
 } else {
-    alert("¿No lo sabes?¡ECMAScript!");
+    alert("Una ayudita es ECMAScript");
 }
