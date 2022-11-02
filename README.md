@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br>README Template
+📄<br>Actividades sobre JS
 </h1>
 
 ## Selecione o README que deseja usar
@@ -15,10 +15,10 @@
 
 ---
 
-## ☕ Seja um dos contribuidores
+## ☕ Contribuidores
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
 
-## 🍜 Licença
+## 🍜 Licencia
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
